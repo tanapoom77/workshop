@@ -29,3 +29,6 @@ Check Search
     Open Web
     Search
     Chek result
+New Check Search
+    Open Web
+    Search
